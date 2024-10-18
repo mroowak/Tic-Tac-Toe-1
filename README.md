@@ -1,1 +1,3 @@
-It's my first project on GitHub. I'll be so thankful if you write some tips to upgrade my code.
+Rewritten code in c++
+tic-tac-toe.o is a compiled version of tic-tac-toe.cpp
+Shoutout to DmitryjGo, whose code I based on when writing.
